@@ -8,3 +8,5 @@ I have seen a iOS pull to refresh control in a droplet style. As an Android deve
 ![](http://3.bp.blogspot.com/-56yXgM09e-g/U5SnkV1y5uI/AAAAAAAAADU/mluKTAX_sKg/s1600/dropper_1.png)
 
 ![](http://3.bp.blogspot.com/-dxdxvExJnqE/U5SnkW_BXoI/AAAAAAAAADg/2KG5TPCgaSM/s1600/dropper_2.png)
+
+Please find the explanation@ http://viswanathl.in/2014/06/droplet-style-pull-to-refresh-in-android/
